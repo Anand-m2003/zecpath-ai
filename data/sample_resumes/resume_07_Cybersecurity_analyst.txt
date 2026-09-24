@@ -1,0 +1,31 @@
+CANDIDATE NAME: Sneha Joseph
+JOB ROLE: Cybersecurity Analyst
+
+SUMMARY:
+Cybersecurity Analyst with 2 years of experience in security monitoring and threat analysis.
+
+EDUCATION:
+M.Sc. Cybersecurity
+University of Hyderabad
+2022
+
+EXPERIENCE:
+Security Analyst – SecureNet Technologies
+2022 – 2024
+- Monitored security events.
+- Investigated suspicious activities.
+- Performed vulnerability assessments.
+- Prepared security reports.
+
+SKILLS:
+Cybersecurity, Network Security, Vulnerability Assessment, SIEM, Linux, Python
+
+CERTIFICATIONS:
+CompTIA Security+
+Ethical Hacking Certification
+
+PROJECTS:
+Network Intrusion Detection System.
+
+ACHIEVEMENTS:
+Helped improve internal security monitoring procedures.

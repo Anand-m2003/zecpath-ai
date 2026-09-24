@@ -1,0 +1,40 @@
+{
+  "job_profile": {
+    "job_id": "",
+    "job_title": "",
+    "department": "",
+    "job_type": "",
+    "location": "",
+    "description": "",
+    "required_education": [
+      {
+        "degree": "",
+        "field_of_study": ""
+      }
+    ],
+    "required_experience": {
+      "minimum_years": 0,
+      "maximum_years": null
+    },
+    "required_skills": [
+      {
+        "name": "",
+        "category": "",
+        "importance": "required"
+      }
+    ],
+    "preferred_skills": [
+      {
+        "name": "",
+        "category": ""
+      }
+    ],
+    "responsibilities": [],
+    "certifications": [],
+    "salary_range": {
+      "minimum": null,
+      "maximum": null,
+      "currency": ""
+    }
+  }
+}

@@ -1,0 +1,138 @@
+# Zecpath AI – Data Entity Design
+
+## 1. Candidate Profile
+
+Represents the structured information extracted from a candidate's resume.
+
+### Main fields
+- candidate_id
+- name
+- target_role
+- contact
+- professional_summary
+- education
+- skills
+- experience
+- certifications
+- projects
+- achievements
+
+---
+
+## 2. Job Profile
+
+Represents the structured information extracted from a job description.
+
+### Main fields
+- job_id
+- job_title
+- department
+- job_type
+- location
+- description
+- required_education
+- required_experience
+- required_skills
+- preferred_skills
+- responsibilities
+- certifications
+- salary_range
+
+---
+
+## 3. Skill Object
+
+Represents an individual skill associated with a candidate or job.
+
+### Fields
+- name
+- category
+- proficiency
+
+Example:
+
+{
+  "name": "Python",
+  "category": "Programming",
+  "proficiency": ""
+}
+
+---
+
+## 4. Experience Object
+
+Represents a candidate's professional experience.
+
+### Fields
+- designation
+- company
+- start_date
+- end_date
+- responsibilities
+
+---
+
+## 5. Education Object
+
+Represents a candidate's educational qualification.
+
+### Fields
+- degree
+- field_of_study
+- institution
+- graduation_year
+
+---
+
+## 6. Certification Object
+
+Represents a professional certification.
+
+### Fields
+- name
+- issuing_organization
+- year
+
+---
+
+## 7. Project Object
+
+Represents a project completed by a candidate.
+
+### Fields
+- name
+- description
+- technologies
+
+---
+
+## 8. Entity Relationship
+
+Candidate Profile
+        |
+        ├── Education
+        ├── Skills
+        ├── Experience
+        ├── Certifications
+        ├── Projects
+        └── Achievements
+
+Job Profile
+        |
+        ├── Required Education
+        ├── Required Skills
+        ├── Preferred Skills
+        ├── Required Experience
+        ├── Responsibilities
+        └── Certifications
+
+Candidate Profile
+        |
+        ↓
+      ATS AI
+        ↑
+        |
+    Job Profile
+
+The ATS compares candidate information with job requirements
+to produce structured matching and scoring results.

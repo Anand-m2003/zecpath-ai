@@ -1,0 +1,31 @@
+CANDIDATE NAME: Anjali Thomas
+JOB ROLE: Frontend Developer
+
+SUMMARY:
+Frontend Developer with 2 years of experience building responsive web applications.
+
+EDUCATION:
+B.Sc. Computer Science
+Mahatma Gandhi University
+2022
+
+EXPERIENCE:
+Frontend Developer – WebCraft Technologies
+2022 – 2024
+- Developed responsive websites.
+- Created reusable UI components.
+- Integrated frontend applications with REST APIs.
+- Fixed cross-browser and responsive design issues.
+
+SKILLS:
+HTML, CSS, JavaScript, React, Bootstrap, Git, REST API
+
+CERTIFICATIONS:
+Frontend Web Development Certification
+JavaScript Certification
+
+PROJECTS:
+Online Food Ordering Web Application.
+
+ACHIEVEMENTS:
+Improved mobile responsiveness across multiple client websites.

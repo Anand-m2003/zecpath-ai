@@ -1,0 +1,52 @@
+{
+  "candidate_profile": {
+    "candidate_id": "",
+    "name": "",
+    "target_role": "",
+    "contact": {
+      "email": "",
+      "phone": "",
+      "location": ""
+    },
+    "professional_summary": "",
+    "education": [
+      {
+        "degree": "",
+        "field_of_study": "",
+        "institution": "",
+        "graduation_year": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "category": "",
+        "proficiency": ""
+      }
+    ],
+    "experience": [
+      {
+        "designation": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "responsibilities": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "",
+        "issuing_organization": "",
+        "year": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "description": "",
+        "technologies": []
+      }
+    ],
+    "achievements": []
+  }
+}

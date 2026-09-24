@@ -1,0 +1,31 @@
+CANDIDATE NAME: Neha Sharma
+JOB ROLE: Data Scientist
+
+SUMMARY:
+Data Scientist with 3 years of experience in data analysis, machine learning and data visualization.
+
+EDUCATION:
+M.Sc. Data Science
+University of Mumbai
+2021
+
+EXPERIENCE:
+Data Scientist – DataVision Analytics
+2021 – 2024
+- Analyzed business datasets.
+- Built machine learning models.
+- Performed data preprocessing and feature engineering.
+- Created dashboards and reports.
+
+SKILLS:
+Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning, Statistics, Power BI
+
+CERTIFICATIONS:
+Data Science Professional Certificate
+Machine Learning Certification
+
+PROJECTS:
+Customer Churn Prediction using Machine Learning.
+
+ACHIEVEMENTS:
+Developed a churn model that improved customer retention analysis.

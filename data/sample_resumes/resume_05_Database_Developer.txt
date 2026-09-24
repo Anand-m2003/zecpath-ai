@@ -1,0 +1,31 @@
+CANDIDATE NAME: Vishnu Krishnan
+JOB ROLE: Database Developer
+
+SUMMARY:
+Database Developer with 3 years of experience in SQL development and database management.
+
+EDUCATION:
+B.Tech Information Technology
+Cochin University of Science and Technology
+2021
+
+EXPERIENCE:
+Database Developer – InfoData Systems
+2021 – 2024
+- Designed relational database structures.
+- Created SQL queries and stored procedures.
+- Optimized database performance.
+- Managed data migration tasks.
+
+SKILLS:
+SQL, MySQL, PostgreSQL, Database Design, Stored Procedures, Python
+
+CERTIFICATIONS:
+SQL Developer Certification
+Database Management Certification
+
+PROJECTS:
+Inventory Management Database System.
+
+ACHIEVEMENTS:
+Optimized frequently used queries to reduce database processing time.

@@ -1,0 +1,31 @@
+CANDIDATE NAME: Arjun Menon
+JOB ROLE: Python Developer
+
+SUMMARY:
+Python Developer with 2 years of experience in backend development and REST API development.
+
+EDUCATION:
+Bachelor of Computer Applications (BCA)
+University of Kerala
+2022
+
+EXPERIENCE:
+Python Developer – TechSoft Solutions
+2022 – 2024
+- Developed REST APIs using Python and Flask.
+- Worked with PostgreSQL databases.
+- Integrated third-party APIs.
+- Fixed application bugs and improved backend performance.
+
+SKILLS:
+Python, Flask, REST API, SQL, PostgreSQL, Git, HTML, CSS
+
+CERTIFICATIONS:
+Python Programming Certification
+SQL Fundamentals Certification
+
+PROJECTS:
+Employee Management System using Flask and PostgreSQL.
+
+ACHIEVEMENTS:
+Received recognition for improving API response performance.

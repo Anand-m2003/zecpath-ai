@@ -1,0 +1,31 @@
+CANDIDATE NAME: Rahul Nair
+JOB ROLE: Machine Learning Engineer
+
+SUMMARY:
+Machine Learning Engineer with 2.5 years of experience developing and deploying machine learning solutions.
+
+EDUCATION:
+B.Tech Computer Science
+APJ Abdul Kalam Technological University
+2021
+
+EXPERIENCE:
+ML Engineer – AI Solutions Pvt Ltd
+2021 – 2024
+- Developed supervised and unsupervised ML models.
+- Built data preprocessing pipelines.
+- Worked on model evaluation and deployment.
+- Developed prediction APIs.
+
+SKILLS:
+Python, Machine Learning, TensorFlow, Scikit-learn, Pandas, NumPy, Flask, Git
+
+CERTIFICATIONS:
+Machine Learning with Python
+Deep Learning Fundamentals
+
+PROJECTS:
+House Price Prediction and Customer Classification systems.
+
+ACHIEVEMENTS:
+Automated model deployment workflow for an internal project.

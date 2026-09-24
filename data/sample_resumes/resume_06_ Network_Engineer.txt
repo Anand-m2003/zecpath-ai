@@ -1,0 +1,31 @@
+CANDIDATE NAME: Mohammed Faisal
+JOB ROLE: Network Engineer
+
+SUMMARY:
+Network Engineer with 3 years of experience in network administration and troubleshooting.
+
+EDUCATION:
+B.Tech Computer Science
+University of Calicut
+2021
+
+EXPERIENCE:
+Network Engineer – NetCore Technologies
+2021 – 2024
+- Configured and monitored network devices.
+- Troubleshot connectivity issues.
+- Managed LAN and WAN infrastructure.
+- Monitored network performance.
+
+SKILLS:
+Networking, TCP/IP, LAN, WAN, Cisco, Routing, Switching, Network Security
+
+CERTIFICATIONS:
+CCNA
+Network Security Fundamentals
+
+PROJECTS:
+Enterprise Network Monitoring System.
+
+ACHIEVEMENTS:
+Improved network monitoring and incident response processes.

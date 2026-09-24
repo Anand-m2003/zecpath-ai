@@ -1,0 +1,31 @@
+CANDIDATE NAME: Akhil Raj
+JOB ROLE: Financial Analyst
+
+SUMMARY:
+Financial Analyst with 3 years of experience in financial reporting and data analysis.
+
+EDUCATION:
+MBA Finance
+University of Calicut
+2021
+
+EXPERIENCE:
+Financial Analyst – FinServe Ltd
+2021 – 2024
+- Prepared financial reports.
+- Analyzed company expenses and revenue.
+- Created financial dashboards.
+- Supported budgeting and forecasting.
+
+SKILLS:
+Financial Analysis, Excel, Power BI, SQL, Data Visualization, Forecasting
+
+CERTIFICATIONS:
+Financial Modeling Certification
+Power BI Certification
+
+PROJECTS:
+Financial Performance Dashboard.
+
+ACHIEVEMENTS:
+Automated recurring financial reporting tasks.
