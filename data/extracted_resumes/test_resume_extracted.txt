@@ -1,0 +1,26 @@
+JOHN DOE
+SUMMARY
+Python Developer with experience in Flask, Django, REST APIs and SQL.
+SKILLS
+Python
+Flask
+Django
+SQL
+Git
+REST API
+EXPERIENCE
+Python Developer - ABC Technologies
+2023 - 2025
+- Developed Flask-based web applications
+- Created REST APIs
+- Worked with SQL databases
+EDUCATION
+Bachelor of Computer Applications
+ABC University
+2023
+PROJECTS
+AI Resume Screening System
+Developed a system to extract and analyze resume information.
+Technologies: Python, Flask, NLP
+CERTIFICATIONS
+Python Programming Certification
