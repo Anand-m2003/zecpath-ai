@@ -1,0 +1,20 @@
+#Raw JD
+#  ↓
+#Cleaning
+#  ↓
+#Role extraction
+#  ↓
+#Experience extraction
+#  ↓
+#Education extraction
+#  ↓
+#Skill detection
+#  ↓
+#Synonym normalization
+#  ↓
+#Preferred skill detection
+#  ↓
+#Responsibilities extraction
+#  ↓
+#Structured Job Profile
+

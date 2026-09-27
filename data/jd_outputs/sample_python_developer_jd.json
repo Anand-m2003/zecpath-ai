@@ -1,0 +1,83 @@
+{
+    "job_profile": {
+        "job_id": "",
+        "job_title": "Python Developer",
+        "department": "",
+        "job_type": "",
+        "location": "",
+        "description": "PYTHON DEVELOPER\nWe are looking for a Python Developer to join our development team.\nJob Description:\nThe candidate will be responsible for developing and maintaining Python-based applications, REST APIs, and backend services.\nRequirements:\n- Minimum 2 years of experience in Python development.\n- Strong knowledge of Python and Flask.\n- Experience with REST APIs and SQL databases.\n- Knowledge of Git and GitHub.\n- Bachelor's degree in Computer Science, Computer Applications, or a related field.\nPreferred Skills:\n- Django experience.\n- Knowledge of FastAPI.\n- Basic understanding of Docker.\nResponsibilities:\n- Develop and maintain backend applications.\n- Design and integrate REST APIs.\n- Work with databases and development teams.\n- Debug and improve application performance.",
+        "required_education": [
+            {
+                "degree": "Bachelor's",
+                "field_of_study": "Computer Science, Computer Applications, or a related field"
+            }
+        ],
+        "required_experience": {
+            "minimum_years": 2,
+            "maximum_years": null
+        },
+        "required_skills": [
+            {
+                "name": "Python",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "Flask",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "REST API",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "SQL",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "Git",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "GitHub",
+                "category": "",
+                "importance": "required"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "category": "",
+                "importance": "required"
+            }
+        ],
+        "preferred_skills": [
+            {
+                "name": "Django",
+                "category": ""
+            },
+            {
+                "name": "FastAPI",
+                "category": ""
+            },
+            {
+                "name": "Docker",
+                "category": ""
+            }
+        ],
+        "responsibilities": [
+            "Develop and maintain backend applications.",
+            "Design and integrate REST APIs.",
+            "Work with databases and development teams.",
+            "Debug and improve application performance."
+        ],
+        "certifications": [],
+        "salary_range": {
+            "minimum": null,
+            "maximum": null,
+            "currency": ""
+        }
+    }
+}
