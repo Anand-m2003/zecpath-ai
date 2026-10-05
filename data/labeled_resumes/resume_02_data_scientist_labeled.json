@@ -1,0 +1,35 @@
+{
+  "resume_id": "resume_02",
+  "sections": {
+    "work_experience": [
+      "Data Scientist – DataVision Analytics",
+      "2021 – 2024",
+      "Analyzed business datasets.",
+      "Built machine learning models.",
+      "Performed data preprocessing and feature engineering.",
+      "Created dashboards and reports."
+    ],
+    "education": [
+      "M.Sc. Data Science",
+      "University of Mumbai",
+      "2021"
+    ],
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Power BI"
+    ],
+    "certifications": [
+      "Data Science Professional Certificate",
+      "Machine Learning Certification"
+    ],
+    "projects": [
+      "Customer Churn Prediction using Machine Learning."
+    ]
+  }
+}

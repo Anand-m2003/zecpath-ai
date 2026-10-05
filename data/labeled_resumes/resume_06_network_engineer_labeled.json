@@ -1,0 +1,35 @@
+{
+  "resume_id": "resume_06",
+  "sections": {
+    "work_experience": [
+      "Network Engineer – NetCore Technologies",
+      "2021 – 2024",
+      "Configured and monitored network devices.",
+      "Troubleshot connectivity issues.",
+      "Managed LAN and WAN infrastructure.",
+      "Monitored network performance."
+    ],
+    "education": [
+      "B.Tech Computer Science",
+      "University of Calicut",
+      "2021"
+    ],
+    "skills": [
+      "Networking",
+      "TCP/IP",
+      "LAN",
+      "WAN",
+      "Cisco",
+      "Routing",
+      "Switching",
+      "Network Security"
+    ],
+    "certifications": [
+      "CCNA",
+      "Network Security Fundamentals"
+    ],
+    "projects": [
+      "Enterprise Network Monitoring System."
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "resume_05",
+  "sections": {
+    "work_experience": [
+      "Database Developer – InfoData Systems",
+      "2021 – 2024",
+      "Designed relational database structures.",
+      "Created SQL queries and stored procedures.",
+      "Optimized database performance.",
+      "Managed data migration tasks."
+    ],
+    "education": [
+      "B.Tech Information Technology",
+      "Cochin University of Science and Technology",
+      "2021"
+    ],
+    "skills": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Database Design",
+      "Stored Procedures",
+      "Python"
+    ],
+    "certifications": [
+      "SQL Developer Certification",
+      "Database Management Certification"
+    ],
+    "projects": [
+      "Inventory Management Database System."
+    ]
+  }
+}

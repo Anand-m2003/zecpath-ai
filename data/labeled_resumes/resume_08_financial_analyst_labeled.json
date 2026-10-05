@@ -1,0 +1,33 @@
+{
+  "resume_id": "resume_08",
+  "sections": {
+    "work_experience": [
+      "Financial Analyst – FinServe Ltd",
+      "2021 – 2024",
+      "Prepared financial reports.",
+      "Analyzed company expenses and revenue.",
+      "Created financial dashboards.",
+      "Supported budgeting and forecasting."
+    ],
+    "education": [
+      "MBA Finance",
+      "University of Calicut",
+      "2021"
+    ],
+    "skills": [
+      "Financial Analysis",
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Data Visualization",
+      "Forecasting"
+    ],
+    "certifications": [
+      "Financial Modeling Certification",
+      "Power BI Certification"
+    ],
+    "projects": [
+      "Financial Performance Dashboard."
+    ]
+  }
+}

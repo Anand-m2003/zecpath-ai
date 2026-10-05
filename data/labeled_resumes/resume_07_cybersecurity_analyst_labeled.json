@@ -1,0 +1,33 @@
+{
+  "resume_id": "resume_07",
+  "sections": {
+    "work_experience": [
+      "Security Analyst – SecureNet Technologies",
+      "2022 – 2024",
+      "Monitored security events.",
+      "Investigated suspicious activities.",
+      "Performed vulnerability assessments.",
+      "Prepared security reports."
+    ],
+    "education": [
+      "M.Sc. Cybersecurity",
+      "University of Hyderabad",
+      "2022"
+    ],
+    "skills": [
+      "Cybersecurity",
+      "Network Security",
+      "Vulnerability Assessment",
+      "SIEM",
+      "Linux",
+      "Python"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Ethical Hacking Certification"
+    ],
+    "projects": [
+      "Network Intrusion Detection System."
+    ]
+  }
+}

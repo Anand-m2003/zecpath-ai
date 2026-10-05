@@ -1,0 +1,35 @@
+{
+  "resume_id": "resume_03",
+  "sections": {
+    "work_experience": [
+      "ML Engineer – AI Solutions Pvt Ltd",
+      "2021 – 2024",
+      "Developed supervised and unsupervised ML models.",
+      "Built data preprocessing pipelines.",
+      "Worked on model evaluation and deployment.",
+      "Developed prediction APIs."
+    ],
+    "education": [
+      "B.Tech Computer Science",
+      "APJ Abdul Kalam Technological University",
+      "2021"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Flask",
+      "Git"
+    ],
+    "certifications": [
+      "Machine Learning with Python",
+      "Deep Learning Fundamentals"
+    ],
+    "projects": [
+      "House Price Prediction and Customer Classification systems."
+    ]
+  }
+}

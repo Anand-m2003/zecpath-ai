@@ -1,0 +1,35 @@
+{
+  "resume_id": "resume_01",
+  "sections": {
+    "work_experience": [
+      "Python Developer – TechSoft Solutions",
+      "2022 – 2024",
+      "Developed REST APIs using Python and Flask.",
+      "Worked with PostgreSQL databases.",
+      "Integrated third-party APIs.",
+      "Fixed application bugs and improved backend performance."
+    ],
+    "education": [
+      "Bachelor of Computer Applications (BCA)",
+      "University of Kerala",
+      "2022"
+    ],
+    "skills": [
+      "Python",
+      "Flask",
+      "REST API",
+      "SQL",
+      "PostgreSQL",
+      "Git",
+      "HTML",
+      "CSS"
+    ],
+    "certifications": [
+      "Python Programming Certification",
+      "SQL Fundamentals Certification"
+    ],
+    "projects": [
+      "Employee Management System using Flask and PostgreSQL."
+    ]
+  }
+}

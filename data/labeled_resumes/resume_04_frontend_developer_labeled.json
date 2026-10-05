@@ -1,0 +1,34 @@
+{
+  "resume_id": "resume_04",
+  "sections": {
+    "work_experience": [
+      "Frontend Developer – WebCraft Technologies",
+      "2022 – 2024",
+      "Developed responsive websites.",
+      "Created reusable UI components.",
+      "Integrated frontend applications with REST APIs.",
+      "Fixed cross-browser and responsive design issues."
+    ],
+    "education": [
+      "B.Sc. Computer Science",
+      "Mahatma Gandhi University",
+      "2022"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Bootstrap",
+      "Git",
+      "REST API"
+    ],
+    "certifications": [
+      "Frontend Web Development Certification",
+      "JavaScript Certification"
+    ],
+    "projects": [
+      "Online Food Ordering Web Application."
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "resume_09",
+  "sections": {
+    "work_experience": [
+      "Digital Marketing Executive – MarketReach Agency",
+      "2022 – 2024",
+      "Managed social media campaigns.",
+      "Created digital marketing content.",
+      "Performed keyword research.",
+      "Monitored campaign performance."
+    ],
+    "education": [
+      "Bachelor of Business Administration",
+      "Mahatma Gandhi University",
+      "2022"
+    ],
+    "skills": [
+      "Digital Marketing",
+      "SEO",
+      "Social Media Marketing",
+      "Google Analytics",
+      "Content Marketing",
+      "Excel"
+    ],
+    "certifications": [
+      "Google Digital Marketing Certification",
+      "SEO Certification"
+    ],
+    "projects": [
+      "Social Media Campaign for an e-commerce brand."
+    ]
+  }
+}

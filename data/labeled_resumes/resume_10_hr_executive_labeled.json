@@ -1,0 +1,33 @@
+{
+  "resume_id": "resume_10",
+  "sections": {
+    "work_experience": [
+      "HR Executive – PeopleFirst Solutions",
+      "2021 – 2024",
+      "Managed candidate recruitment processes.",
+      "Conducted initial candidate screening.",
+      "Maintained employee records.",
+      "Coordinated interviews and onboarding."
+    ],
+    "education": [
+      "MBA Human Resources",
+      "Kerala University",
+      "2021"
+    ],
+    "skills": [
+      "Recruitment",
+      "Candidate Screening",
+      "Employee Relations",
+      "HR Operations",
+      "Communication",
+      "MS Excel"
+    ],
+    "certifications": [
+      "Human Resource Management Certification",
+      "Recruitment Specialist Certification"
+    ],
+    "projects": [
+      "Employee Onboarding Management System."
+    ]
+  }
+}
